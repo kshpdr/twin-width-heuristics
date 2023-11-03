@@ -12,7 +12,10 @@ This repository contains the final bachelor's thesis and associated with it code
    - Hosts the benchmarking script and other helper scripts.
    - Dive into the [scripts/ directory README](scripts/README.md) for more details and instructions.
 
-3. **thesis.pdf**:
+3. **tests/**:
+   - Example folder containing tests for benchmarking.
+
+4. **thesis.pdf**:
    - Bachelor thesis describing all experiments and discussing results.
    - [Link to thesis.pdf](thesis.pdf)
 
