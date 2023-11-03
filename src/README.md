@@ -1,4 +1,4 @@
-# Source Code for Bachelor Thesis Project
+# Source Code for the solver
 
 This directory contains the C++ source code associated with the thesis. 
 
